@@ -6,10 +6,10 @@ personal website using github with pages
 ## Sub Heading test  
 Now I need to learn markdown...
 
-And for a few things to do...
-  * handle lists
-  * figure out how to make this work with index.hmtl
-       - cleaner for code pushes
+And for a few things to do...  
+  * handle lists  
+  * figure out how to make this work with index.hmtl  
+       - cleaner for code pushes  
   * figure out how to push new pages
 
 check out my probably empty [website...](mattamabeli.com)
