@@ -12,4 +12,4 @@ And for a few things to do...
        - cleaner for code pushes  
   * figure out how to push new pages
 
-check out my probably empty [website...](mattamabeli.com)
+check out my probably empty [website...](www.mattamabeli.com)
