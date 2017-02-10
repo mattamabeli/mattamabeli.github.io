@@ -35,3 +35,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+--------------
+
+# Entry 1
+
+I would really like to separate this out into more than just a readme file, but until I do I'll make this work.
+
+Lately I've been thinking about code based projects to do on my own. So far it's namely a stock watcher and something to track personal projects.
