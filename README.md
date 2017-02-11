@@ -44,3 +44,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 I would really like to separate this out into more than just a readme file, but until I do I'll make this work.
 
 Lately I've been thinking about code based projects to do on my own. So far it's namely a stock watcher and something to track personal projects.
+
+--------------
+
+# Tax Season
+
+Just did my taxes - wow! Being married nets you a lot in returns, but RITA local taxes blow.
